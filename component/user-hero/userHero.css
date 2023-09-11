@@ -1,3 +1,13 @@
+*{
+    
+}
+
 .user-hero{
-    padding: 50px;
+    padding: 200px;
+    color:black;
+    font-size: 70px;
+    text-align: center;
+}
+.hero-topic{
+    
 }

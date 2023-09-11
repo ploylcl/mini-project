@@ -1,14 +1,15 @@
 *{
     margin:0;
-    color: white;
+    
 }
 li{
     margin-right: 10px;
-    border:1px solid grey;
+    color: white;
 }
 
 ul {
     list-style-type: none;
+    color: white;
   }
 
 .nav-bar{
@@ -17,10 +18,15 @@ ul {
     align-items: center;
     background-color: #21222A;
     justify-content : flex-end;
+    color:white;
 }
 
 .nav-element{
     display: flex;
     flex-direction: row;
     padding: 30px 25px;
+    color: white;
 }
+body {
+    
+  }
