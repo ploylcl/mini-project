@@ -1,0 +1,30 @@
+{
+    "user":[
+        {
+            "id":1,
+            "user":"ployloll",
+            "password":"0000",
+            "fullname":"chalida thewarothon",
+            "organization":"duck",
+            "role":"customer"
+
+        },
+        {
+            "id":2,
+            "user":"alice",
+            "password":"1111",
+            "fullname":"alice ",
+            "organization":"duck",
+            "role":"customer"
+
+        },        {
+            "id":3,
+            "user":"bob",
+            "password":"2222",
+            "fullname":"Bob brown",
+            "organization":"cat",
+            "role":"admin"
+
+        }
+    ]
+}
